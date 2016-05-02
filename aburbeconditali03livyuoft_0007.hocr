@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./aburbeconditali03livyuoft_0007.png"; bbox 0 0 1811 2828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 828 1237 873">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 828 1237 873">
+     <span class='ocr_line' id='line_1_1' title="bbox 465 828 1237 873; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 465 829 689 872; x_wconf 86' lang='lat' dir='ltr'>MEINEM</span> <span class='ocrx_word' id='word_1_2' title='bbox 721 828 932 871; x_wconf 86' lang='lat' dir='ltr'>LIEBEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 962 828 1237 873; x_wconf 84' lang='lat' dir='ltr'>FREUNDE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 738 1035 974 1083">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 738 1035 974 1083">
+     <span class='ocr_line' id='line_1_2' title="bbox 738 1035 974 1083; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 738 1035 974 1083; x_wconf 79' lang='lat' dir='ltr'>HERRN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 238 1241 1504 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 238 1241 1504 1332">
+     <span class='ocr_line' id='line_1_3' title="bbox 238 1241 1504 1332; baseline -0.001 -13"><span class='ocrx_word' id='word_1_5' title='bbox 238 1247 644 1320; x_wconf 78' lang='lat' dir='ltr'><strong>PROFESSOR</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 701 1246 816 1319; x_wconf 69' lang='grc' dir='ltr'><strong>ΠΒ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 866 1241 1140 1318; x_wconf 80' lang='lat' dir='ltr'><strong>GUSTAV</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1197 1244 1504 1332; x_wconf 78' lang='lat' dir='ltr'><strong>LANGE‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 331 1478 1391 1516">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 331 1478 1391 1516">
+     <span class='ocr_line' id='line_1_4' title="bbox 331 1478 1391 1516; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 331 1479 589 1516; x_wconf 86' lang='lat' dir='ltr'>DIREKTOR</span> <span class='ocrx_word' id='word_1_10' title='bbox 614 1479 707 1515; x_wconf 87' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 734 1478 1391 1515; x_wconf 87' lang='lat' dir='ltr'>HUMBOLDTS-GYMNASIUMS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 729 1687 994 1719">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 729 1687 994 1719">
+     <span class='ocr_line' id='line_1_5' title="bbox 729 1687 994 1719; baseline -0.004 0"><span class='ocrx_word' id='word_1_12' title='bbox 729 1687 785 1719; x_wconf 65' lang='grc' dir='ltr'><strong>ΖΕ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 811 1687 994 1719; x_wconf 81' lang='lat' dir='ltr'>BERLIN.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
